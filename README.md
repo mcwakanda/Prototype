@@ -1,5 +1,5 @@
-##Welcome to Wakanda##
+##Prototypes in WAF##
 
-This is the place to describe your Wakanda application.
+This solution illustrates that the WAF.widget.Grid prototype is "reset" after a web component that has a grid widget is loaded.
 
-Please visit [www.wakanda.org](http://www.wakanda.org "wakanda.org") for more information.
+Moral of the story, don't bother editing the prototype of a widget in Wakanda
